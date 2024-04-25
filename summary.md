@@ -58,3 +58,28 @@ public int getPrice()
  return price;
 }
 ```
+
+
+```Mutator method``` 
+
+- 객체의 상태를 변경하는 메서드
+
+```
+public void setName(String newName) {
+        name = newName;
+    }
+```
+
+```local varables``` : method can inculde shorter-lived variables
+
+- 지역 변수 : 메서드 내에서만 존재
+  
+```
+public int refundBalance()
+{
+int amountToRefund; // local varables
+amountToRefund = balance; 
+balance = 0;
+return amountToRefund;
+}
+```
