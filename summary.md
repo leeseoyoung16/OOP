@@ -93,3 +93,9 @@ return amountToRefund;
 - 모듈화 : 전체를 나누는 것
 
   
+```==```과 ```equals```의 차이점
+
+- ```equals```는 내용만 같으면 True
+- ```==```는 위치도 같아야 True
+
+  
