@@ -83,3 +83,13 @@ balance = 0;
 return amountToRefund;
 }
 ```
+
+```Abstraction``` : the ability to ignore details of parts to focus attetion on a higher level of a problem.
+
+- 추상화 : 더 높은 수준의 문제에 집중하려고 세부 사항 무시
+
+```Modularization``` : the process of dividing a whole into well-defined part
+
+- 모듈화 : 전체를 나누는 것
+
+  
